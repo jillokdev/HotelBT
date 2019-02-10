@@ -52,6 +52,7 @@ p {
 .btn:hover {
     background: #f7c08a;
     color: #333;
+    transition: 0.3s ease;
 }
 
 .btn-light {
@@ -120,6 +121,7 @@ p {
 #navbar ul li a:hover {
     background-color: #444;
     color: #f7c08a;
+    transition: 0.3s ease;
 }
 
 #navbar ul li .current {
@@ -264,5 +266,3 @@ p {
     color: white;
     padding: 20px;
 }
-
-
